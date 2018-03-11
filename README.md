@@ -1,2 +1,2 @@
 # CV
-It's a resume for a trining program
+It's a resume for a training program
